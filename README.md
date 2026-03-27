@@ -1,7 +1,7 @@
 # ScreenGuard-software
 # 🎯 ScreenGuard - Privacy Protection Camera
 
-![ScreenGuard Logo](https://github.com/sannuk79/ScreenGuard-software/raw/main/logo.png?s=100)
+![ScreenGuard Logo](https://github.com/sannuk79/ScreenGuard-software/blob/main/7171.png)
 
 **YOLOv8 + MediaPipe FaceMesh** hybrid detection achieving **97-99% accuracy**
 
