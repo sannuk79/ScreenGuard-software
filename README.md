@@ -1,6 +1,8 @@
 # ScreenGuard-software
 # 🎯 ScreenGuard - Privacy Protection Camera
 
+![ScreenGuard Logo](https://github.com/sannuk79/ScreenGuard-software/raw/main/logo.png)
+
 **YOLOv8 + MediaPipe FaceMesh** hybrid detection achieving **97-99% accuracy**
 
 Works on **CPU** (GPU optional) - Compatible with all systems worldwide
@@ -10,6 +12,14 @@ Works on **CPU** (GPU optional) - Compatible with all systems worldwide
 ## 📥 Download
 
 **[Download from Microsoft Store](https://apps.microsoft.com/detail/9NWCJ3GHN40T?hl=en-us&gl=IN&ocid=pdpshare)**
+
+---
+
+## 📸 Screenshots
+
+![ScreenGuard Interface](https://github.com/sannuk79/ScreenGuard-software/raw/main/saasas.png)
+
+![Detection Demo](https://github.com/sannuk79/ScreenGuard-software/raw/main/sg1.png)
 
 ---
 
@@ -63,7 +73,7 @@ Works on **CPU** (GPU optional) - Compatible with all systems worldwide
 
 ---
 
-## 🎯 Alerts Triggered
+## ��� Alerts Triggered
 
 | Situation | Alert |
 |-----------|-------|
