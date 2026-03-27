@@ -1,7 +1,7 @@
 # ScreenGuard-software
 # 🎯 ScreenGuard - Privacy Protection Camera
 
-![ScreenGuard Logo](https://github.com/sannuk79/ScreenGuard-software/raw/main/logo.png)
+![ScreenGuard Logo](https://github.com/sannuk79/ScreenGuard-software/raw/main/logo.png?s=100)
 
 **YOLOv8 + MediaPipe FaceMesh** hybrid detection achieving **97-99% accuracy**
 
@@ -73,7 +73,7 @@ Works on **CPU** (GPU optional) - Compatible with all systems worldwide
 
 ---
 
-## ��� Alerts Triggered
+## 🎯 Alerts Triggered
 
 | Situation | Alert |
 |-----------|-------|
@@ -116,9 +116,9 @@ Works on **CPU** (GPU optional) - Compatible with all systems worldwide
 
 ## 📦 Installation
 
-```bash
-# Install dependencies
-pip install -r requirements.txt
+- link to dowmload 
 
-# Run ScreenGuard
-python main.py
+## Any suggestion tell me  📭.
+- Improvement
+- Query
+## PLSE GIVE ME FEEDBACK 🥹
